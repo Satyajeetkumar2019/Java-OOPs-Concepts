@@ -1,0 +1,9 @@
+class Examplexy{ 
+	public static void main(String[] args) {
+	
+		System.out.println("Hello World!");
+	}
+}
+class Samplexyz1  extends Examplexy{
+
+}//end class
